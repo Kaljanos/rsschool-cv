@@ -8,5 +8,5 @@ and logistics. Currently working in the distribution of non-food products
 ## Software Skill
 Borland Pascal
 ## English level
-A2
+A2.
 
