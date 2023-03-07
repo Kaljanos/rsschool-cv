@@ -7,7 +7,7 @@
 **E-mail :** Kaljanos900@gmail.com
 
 ### Expierence
-10 years logist, economist and bisness-analyst. At heart - archaeologist and etnographic
+10 years logist, economist and bisness-analyst. At heart - archaeologist
 
 ### Skills
 Borland Pascal 
